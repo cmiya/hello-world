@@ -15,5 +15,3 @@ I am *bold*.
 I am **italics**.
 
 [Click me for CATS](http://www.lolcats.com/)
-
-! [id]: https://pbs.twimg.com/profile_images/616542814319415296/McCTpH_E.jpg)
