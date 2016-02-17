@@ -16,6 +16,7 @@ I am **italics**.
 
 [Click me for CATS](http://www.lolcats.com/)
 
+I added this extra line through Git!
 
 Some extra stuff for a test!
 
